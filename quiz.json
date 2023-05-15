@@ -1,0 +1,68 @@
+ [
+
+        { 
+          "question":   "How many time zones are there in Russia?",
+         "choices":   [ 
+                "12", 
+                "13", 
+                "17", 
+                "11"
+            ], 
+            "answers":3
+          },
+
+           { 
+          "question":   "What is one of the big differences between traditional media and social media?",
+         "choices":   [ 
+                "participatory production", 
+                "social media reaches only a few people at a time", 
+                "structure of the companies", 
+                "traditional media offers no way for audiences to communicate with media producers "
+            ], 
+            "answers":1
+          },
+
+           { 
+          "question":   "Which of the following is NOT a fundamental area of change regarding peoples media habits?",
+         "choices":   [ 
+                "conversation", 
+                "collaboration", 
+                "choice", 
+                "communication"
+            ], 
+            "answers":3
+          },
+           { 
+          "question":   "How many stripes are there on the US flag?",
+         "choices":   [ 
+                "11", 
+                "13", 
+                "45", 
+                "14"
+            ], 
+            "answers":2
+          },
+           { 
+          "question":   "When did they open the London underground?",
+         "choices":   [ 
+                "1865", 
+                "1862", 
+                "1863", 
+                "1866"
+            ], 
+            "answers":3
+          },
+           { 
+          "question":"How many keys does a classic piano have?",
+         "choices":   [ 
+                "87", 
+                "82", 
+                "88", 
+                "89"
+            ], 
+            "answers":3
+          }
+
+
+        
+]
